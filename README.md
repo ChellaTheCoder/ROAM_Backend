@@ -12,4 +12,4 @@ ROAM_Backend
    #run the app:
      > npm start
 
-To run check server up/not , hit in browser http://localhost:3000
+To check server up/not , hit in browser http://localhost:3000
